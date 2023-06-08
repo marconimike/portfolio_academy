@@ -1,5 +1,3 @@
-import nlw from "./assets/projects/nlw.jpg";
-import calculator from "./assets/projects/calculator.jpg";
 import bijuido from "./assets/projects/bijuido.jpg";
 import matuto from "./assets/projects/matuto.jpg";
 import churrasco from "./assets/projects/churrasco.jpg";
